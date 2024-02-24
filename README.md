@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import iterCubesSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-cubes@esm/index.mjs';
+import iterCubesSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-cubes@v0.2.1-esm/index.mjs';
 ```
 
 #### iterCubesSeq( \[options] )
@@ -139,7 +139,7 @@ var bool = it.next().done;
 <body>
 <script type="module">
 
-import iterCubesSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-cubes@esm/index.mjs';
+import iterCubesSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-cubes@v0.2.1-esm/index.mjs';
 
 // Create an iterator:
 var opts = {
